@@ -6,5 +6,7 @@ public class Main {
 	    
 	    World.run();
 	    World.run2();
+	    Hello.run();
+	    Hello.run2();
 	  }
 	}
